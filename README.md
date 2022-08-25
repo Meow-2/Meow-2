@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="#TOP">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meow-2&layout=compact&hide=VHDL,javascript,html,c,css,objective-c&langs_count=8&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meow-2&layout=compact&hide=VHDL,javascript,html,c,css,objective-c&langs_count=6&hide_border=true" style="color:gray;cursor:pointer;pointer-events:none;">
       </a>
     </td>
     <td>
